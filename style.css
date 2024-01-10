@@ -18,3 +18,7 @@
 .translate{
     transform: translateX(10vw) translateY(10vh) scale(3);
 }
+
+.heading{
+    text-align: center;
+}
